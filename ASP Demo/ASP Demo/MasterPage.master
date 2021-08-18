@@ -1,0 +1,97 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        body{
+            margin:0px;
+        }
+
+        .Header{
+            background-color:yellow;
+            font-size:30px;
+            font-weight: bold;
+            padding:10px;
+            text-align:center;
+        }
+
+        .Footer{
+            background-color:aqua;
+            font-size:20px;
+            font-weight:bold;
+            padding:5px;
+            text-align:center;
+        }
+
+        .Main{
+            display:flex;
+            min-height:100%;
+        }
+
+        .menu{
+            width:25%;
+            background-color:springgreen;
+            padding:10px;
+        }
+
+        .content{
+            width:75%;
+            padding:10px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <!--Header-->
+    <div class="Header">
+        Shoe Store
+    </div>
+
+    <!--Main-->
+    <div class="Main">
+
+        <!--Menu-->
+        <div class="menu">
+            <p style="text-align:center;font-weight:bold;font-size:20px;">
+                MENU
+            </p>
+
+            <hr />
+
+            <p>
+                <a href="">PUMA</a>
+            </p>
+
+            <p>
+                <a href="">NIKE</a>
+            </p>
+
+            <p>
+                <a href="">ADIDAS</a>
+            </p>
+
+            <p>
+                <a href="">CONVERSE</a>
+            </p>
+        </div>
+
+        <!--Content-->
+        <div class="content">
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">      
+        </asp:ContentPlaceHolder>
+
+        </div>
+
+    </div>
+
+    <!--Footer-->
+
+    <div class="Footer">
+        Bản Quyền Thuộc Về Shoe Store
+    </div>
+
+</body>
+</html>
