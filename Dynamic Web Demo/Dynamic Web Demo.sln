@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Dynamic Web Demo", "Dynamic Web Demo\", "{709D9801-BEB2-481D-9EC9-1333B8FB0A65}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51874"
+		Debug.AspNetCompiler.PhysicalPath = "Dynamic Web Demo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51874\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51874"
+		Release.AspNetCompiler.PhysicalPath = "Dynamic Web Demo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51874\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51874"
+		SlnRelativePath = "Dynamic Web Demo\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709D9801-BEB2-481D-9EC9-1333B8FB0A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709D9801-BEB2-481D-9EC9-1333B8FB0A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DF7586-EA62-496E-AE54-BE86AAE2A1A1}
+	EndGlobalSection
+EndGlobal
