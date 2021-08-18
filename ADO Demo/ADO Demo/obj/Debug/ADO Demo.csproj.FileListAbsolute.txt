@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\obj\Debug\ADO Demo.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\obj\Debug\ADO Demo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\bin\Debug\Database.mdf
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\bin\Debug\Database_log.ldf
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\bin\Debug\ADO Demo.exe.config
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\bin\Debug\ADO Demo.exe
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\bin\Debug\ADO Demo.pdb
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\obj\Debug\ADO Demo.exe
+C:\Users\ASUS\source\repos\ADO Demo\ADO Demo\obj\Debug\ADO Demo.pdb
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\bin\Debug\Database.mdf
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\bin\Debug\Database_log.ldf
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\bin\Debug\ADO Demo.exe.config
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\bin\Debug\ADO Demo.exe
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\bin\Debug\ADO Demo.pdb
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\obj\Debug\ADO Demo.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\obj\Debug\ADO Demo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\obj\Debug\ADO Demo.exe
+C:\Users\ASUS\source\repos\ADO Demo Phần 2\ADO Demo\obj\Debug\ADO Demo.pdb
