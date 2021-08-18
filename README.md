@@ -1,3 +1,3 @@
-# HTML_Demo
-
-Kỹ Thuật Thương Mại Điện Tử Homework
+# Kỹ Thuật Thương Mại Điện Tử
+- Homework
+- ASP.NET framework
